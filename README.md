@@ -11,7 +11,7 @@ A fully functional **SQL compiler** built from scratch using **Flex** (lexer) an
 - 📝 **Lexer (Flex)** : tokenizes SQL keywords, identifiers, operators, and symbols
 - 🧩 **Parser (Bison/Yacc)** : validates SQL grammar rules
 - ✅ **Supported SQL statements:**
-  - `SELECT` — with `*` or column list, single or multiple tables
+  - `SELECT`.. with `*` or column list, single or multiple tables
   - `INSERT INTO ... VALUES`
   - `UPDATE ... SET ... WHERE`
   - `DELETE FROM ... WHERE`
@@ -29,7 +29,7 @@ A fully functional **SQL compiler** built from scratch using **Flex** (lexer) an
 
 | Empty Interface | Error Detection | Build Commands |
 |----------------|-----------------|----------------|
-| ![Interface](screenshots/interface.png) | ![Error](screenshots/error_detection.png) | ![Build](screenshots/build.png) |
+| ![Interface](interface.png) | ![Error](error_detection.png) | ![Build](build.png) |
 
 ---
 
