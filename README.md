@@ -43,7 +43,7 @@ sql-compiler/
 └── screenshots/
 ```
 
-> ⚙️ Generated files (`lex.yy.c`, `parser.tab.c`, `parser.tab.h`, `sql_compiler`) are excluded from the repo — build them locally using the commands below.
+> ⚙️ Generated files (`lex.yy.c`, `parser.tab.c`, `parser.tab.h`, `sql_compiler`) are excluded from the repo  build them locally using the commands below.
 
 ---
 
