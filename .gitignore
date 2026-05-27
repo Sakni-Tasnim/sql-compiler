@@ -1,0 +1,7 @@
+*.o
+lex.yy.c
+parser.tab.c
+parser.tab.h
+sql_compiler
+__pycache__/
+*.pyc
