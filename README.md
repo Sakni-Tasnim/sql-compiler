@@ -1,4 +1,4 @@
-# 🗄️ SQL Compiler — Flex / Bison + Tkinter GUI
+# 🗄️ SQL Compiler: Flex / Bison + Tkinter GUI
 
 > Write SQL. Compile it. See errors in real time.
 
